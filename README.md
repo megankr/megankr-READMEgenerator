@@ -1,8 +1,10 @@
-# Example Project
+# megankr-READMEgenerator
+
+A repository for the U of M Coding Bootcamp Challenge 09, creating a README file through the command line interface.
 
 ## Description
 
-Example Description
+This project called for us to utilize packages, specifically the Inquirer package. Through this we could prompt a user with questions which would then aid in generating a professional README for the user.
 
 ## Table of Contents
 
@@ -14,10 +16,15 @@ Example Description
 
 ## Installation
 
-Install with npm i after cloning
+Install by running "npm i" in the terminal after cloning.
 
 ## Usage
-Create a README file
+
+Live URL: https://megankr.github.io/megankr-READMEgenerator/
+
+DISCLAIMER FOR GRADERS: Screencastify would crash each time I attempted to record, this screenshot is temporary while I find a solution. Photo includes the terminal after running node index.js and includes the generated README
+
+![Screenshot](./assets/README_sample.png)
 
 ## Contributions
 
@@ -29,11 +36,10 @@ N/A
 
 ## License
 
-MIT
+N/A
 
 ## Questions
 
 For any questions regarding this project, feel free to contact me through the following:
 - Email: megankaye2018@gmail.com
 - GitHub: https://github.com/megankr
-
