@@ -20,8 +20,6 @@ Install by running "npm i" in the terminal after cloning.
 
 ## Usage
 
-Live URL: https://megankr.github.io/megankr-READMEgenerator/
-
 DISCLAIMER FOR GRADERS: Screencastify would crash each time I attempted to record, this screenshot is temporary while I find a solution. Photo includes the terminal after running node index.js and includes the generated README
 
 ![Screenshot](./assets/README_sample.png)
